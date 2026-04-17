@@ -61,14 +61,14 @@ Previous work, such as [this visualisation](https://www.voronoiapp.com/entertain
 
 For each country $i \in I$, retrieve:
 - price of a Netflix subscription $p_i$ and its currency of denomination $c_i$ (source: Netflix website)
-- exchange rate between $c_i$ and US \$: $s_{c_i / \$}$ (source: European Central Bank & XE.com)
+- exchange rate between $c_i$ and US$: $`s_{c_i / \$}`$ (source: European Central Bank & XE.com)
 - gross domestic product (GDP) $Y$ per capita (PCAP) $N$ in  US \$: $y_i = \frac{Y_i}{N_i}$ (source: World Bank). While *total* GDP is a proxy to measure a country's economic output, the GDP *per capita* is a proxy for the country's standard of living.
 
 #### Data preparation
 
 For each country $i$, compute:
-- price of a Netflix subscription in  US \$: $p_{i,\$} = \frac{p_i}{s_{c_i / \$}}$ 
-- **relative Netlix price** as the ratio of the local price in  US \$ to the local GDP PCAP: $p_{i,\text{rel}} = \frac{p_{i,\$}}{y_i} $
+- price of a Netflix subscription in  US$: $`p_{i,\$} = \frac{p_i}{s_{c_i / \$}}`$ 
+- **relative Netlix price** as the ratio of the local price in  US \$ to the local GDP PCAP: $`p_{i,\text{rel}} = \frac{p_{i,\$}}{y_i} `$
 
 #### Data analysis
 
