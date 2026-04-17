@@ -2,7 +2,7 @@
 
 ### About
 
-This repo explores the (un)fairness in regional variations of Netflix prices. The main findings can be explored via this [interactive map](https://colinvn.github.io/netlix-index/).
+This repo explores the (un)fairness in regional variations of Netflix prices. The main findings can be explored via this [**interactive map**](https://colinvn.github.io/netlix-index/).
 
 **Background**: the prices for Netflix plans vary significantly by country. At first sight, however, prices seem to be lower in low-income countries and higher wealthier nations. Hence, prices could be unequal in absolute terms but account for regional purchasing power, thus being "fair" overall?
 
@@ -13,6 +13,8 @@ The project sheds light on the practice of implicit price discrimination, partic
 The repo is a self-sustained data science project using Python/Jupyter notebooks with a focus on geospatial analysis. 
 
 ### Main findings
+
+Price discrimination makes Netflix subscriptions in the Global South much more expensive than in the Global North if we account not only for differences in absolute prices (left table), but also differences in living standards measured by gross domestic product (GDP) per capita (right table).
 
 <table width="100%">
 	<tr>
@@ -51,7 +53,7 @@ The repo is a self-sustained data science project using Python/Jupyter notebooks
 	</tr>
 </table>
 
-Pre [here](https://www.voronoiapp.com/entertainment/Netflix-subscription-cost-around-the-world-403).
+Previous work, such as [this visualisation](https://www.voronoiapp.com/entertainment/Netflix-subscription-cost-around-the-world-403), focused on the left side of the table, i.e. absolute price differences. This may suggest a sense of "fair" price discrimination, whereby wealthier countries are charged higher Netflix subscription prices. But if we account for national differences in living standards, we see that economically less developed countries actually have to pay much more, relatively speaking.
 
 ### Methodology
 
@@ -73,6 +75,7 @@ For each country $i$, compute:
 For a cross-country analysis,
 
 - to account for the positive skewness of the data (i.e. long tail towards high values / towards the right), compute log prices $l_i = \ln (p_{i,\text{rel}} +1)$, where the summand $+1$ ensures positivity of all log prices 
+- remove extreme outliers with high financial volatility (Argentina, Burundi)
 - to make values comparable, scale all log-prices to the range from 0 to 100:
 	- identify upper and lower bound on the set of all log prices: $l_{\max}= \max_{i\in I} l_i$ and $l_{\min}= \min_{i\in I} l_i$
 	- apply the scaling: $n_i = \frac{l_i-l_{\min}}{l_{\max}-l_{\min}}*100 \in {[0,100]}$
