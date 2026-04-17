@@ -1,0 +1,250 @@
+,name,url,raw_price,clean_price,currency
+0,Afghanistan,AF,$7.99,7.99,$
+1,Åland Islands,AX,13.99€ ,13.99,€
+2,Albania,AL,7.99€ ,7.99,€
+3,Algeria,DZ,$7.99,7.99,$
+4,American Samoa,AS,$17.99 ,17.99,$
+5,Andorra,AD,13.99€ ,13.99,€
+6,Angola,AO,$7.99 ,7.99,$
+7,Anguilla,AI,$15.49,15.49,$
+8,Antarctica,AQ,$17.99 ,17.99,$
+9,Antigua & Barbuda,AG,$15.49,15.49,$
+10,Argentina,AR,"ARS14,999 ",14999.0,ARS
+11,Armenia,AM,9.99€ ,9.99,€
+12,Aruba,AW,$15.49,15.49,$
+13,Australia,AU,AU$20.99 ,20.99,AU$
+14,Austria,AT,13.99€ ,13.99,€
+15,Azerbaijan,AZ,9.99€ ,9.99,€
+16,Bahamas,BS,$15.49,15.49,$
+17,Bahrain,BH,$10.49,10.49,$
+18,Bangladesh,BD,$7.99 ,7.99,$
+19,Barbados,BB,$15.29 ,15.29,$
+20,Belarus,BY,9.99€ ,9.99,€
+21,Belgium,BE,16.99€,16.99,€
+22,Belize,BZ,$5.99 ,5.99,$
+23,Benin,BJ,$7.99 ,7.99,$
+24,Bermuda,BM,$15.49,15.49,$
+25,Bhutan,BT,$7.99 ,7.99,$
+26,Bolivia,BO,$5.99 ,5.99,$
+27,Bosnia & Herzegovina,BA,7.99€ ,7.99,€
+28,Botswana,BW,$7.99 ,7.99,$
+29,Bouvet Island,BV,$9.99 ,9.99,$
+30,Brazil,BR,"R$44,90 ",44.9,R$
+31,British Indian Ocean Territory,IO,$7.99 ,7.99,$
+32,British Virgin Islands,VG,$15.49,15.49,$
+33,Brunei,BN,$13.99,13.99,$
+34,Bulgaria,BG,7.99€ ,7.99,€
+35,Burkina Faso,BF,$7.99 ,7.99,$
+36,Burundi,BI,$7.99 ,7.99,$
+37,Cambodia,KH,$7.99 ,7.99,$
+38,Cameroon,CM,$7.99 ,7.99,$
+39,Canada,CA,18.99 CAD ,18.99,CAD
+40,Cape Verde,CV,$7.99 ,7.99,$
+41,Caribbean Netherlands,BQ,$15.49,15.49,$
+42,Cayman Islands,KY,$15.49,15.49,$
+43,Central African Republic,CF,$7.99 ,7.99,$
+44,Chad,TD,$7.99 ,7.99,$
+45,Chile,CL,"$9,990 CLP ",9990.0,$CLP
+46,China,CN,,,
+47,Christmas Island,CX,$7.99,7.99,$
+48,Cocos (Keeling) Islands,CC,AU$18.99,18.99,AU$
+49,Colombia,CO,"29,900 COP ",29900.0,COP
+50,Comoros,KM,$7.99 ,7.99,$
+51,Congo - Brazzaville,CG,$7.99 ,7.99,$
+52,Congo - Kinshasa,CD,$7.99 ,7.99,$
+53,Cook Islands,CK,NZ$25.99 ,25.99,NZ$
+54,Costa Rica,CR,$14.99 ,14.99,$
+55,Côte d’Ivoire,CI,$7.99 ,7.99,$
+56,Croatia,HR,9.99€ ,9.99,€
+57,Cuba,CU,$5.99 ,5.99,$
+58,Curaçao,CW,$15.49,15.49,$
+59,Cyprus,CY,12.49 €,12.49,€
+60,Czechia,CZ,"309,00 Kč ",309.0,Kč
+61,Denmark,DK,129 kr ,129.0,kr
+62,Djibouti,DJ,$7.99 ,7.99,$
+63,Dominica,DM,$5.99 ,5.99,$
+64,Dominican Republic,DO,$9.99 ,9.99,$
+65,Ecuador,EC,$8.99 ,8.99,$
+66,Egypt,EG,170 EGP ,170.0,EGP
+67,El Salvador,SV,$9.99 ,9.99,$
+68,Equatorial Guinea,GQ,$7.99 ,7.99,$
+69,Eritrea,ER,$7.99 ,7.99,$
+70,Estonia,EE,9.99€ ,9.99,€
+71,Eswatini,SZ,$7.99 ,7.99,$
+72,Ethiopia,ET,$7.99 ,7.99,$
+73,Falkland Islands,FK,$17.99 ,17.99,$
+74,Faroe Islands,FO,129kr ,129.0,kr
+75,Fiji,FJ,$7.99 ,7.99,$
+76,Finland,FI,13.99€ ,13.99,€
+77,France,FR,14.99€ ,14.99,€
+78,French Guiana,GF,14.99€ ,14.99,€
+79,French Polynesia,PF,$13.99,13.99,$
+80,French Southern Territories,TF,14.99€ ,14.99,€
+81,Gabon,GA,$7.99 ,7.99,$
+82,Gambia,GM,$7.99 ,7.99,$
+83,Georgia,GE,11.79€,11.79,€
+84,Germany,DE,13.99€ ,13.99,€
+85,Ghana,GH,$7.99 ,7.99,$
+86,Gibraltar,GI,13.99€ ,13.99,€
+87,Greece,GR,12.49 €,12.49,€
+88,Greenland,GL,129 kr ,129.0,kr
+89,Grenada,GD,$5.99 ,5.99,$
+90,Guadeloupe,GP,14.99€ ,14.99,€
+91,Guam,GU,$17.99 ,17.99,$
+92,Guatemala,GT,$9.99 ,9.99,$
+93,Guernsey,GG,£12.99 ,12.99,£
+94,Guinea,GN,$7.99 ,7.99,$
+95,Guinea-Bissau,GW,$7.99 ,7.99,$
+96,Guyana,GY,$5.99 ,5.99,$
+97,Haiti,HT,$5.99 ,5.99,$
+98,Heard & McDonald Islands,HM,$17.99 ,17.99,$
+99,Honduras,HN,$9.99 ,9.99,$
+100,Hong Kong,HK,88 HKD,88.0,HKD
+101,Hungary,HU,3990 Ft ,3990.0,Ft
+102,Iceland,IS,14.99€ ,14.99,€
+103,India,IN,₹499 INR,499.0,₹INR
+104,Indonesia,ID,"120,000 IDR ",120000.0,IDR
+105,Iran,IR,$7.99 ,7.99,$
+106,Iraq,IQ,$7.99,7.99,$
+107,Ireland,IE,16.99€ ,16.99,€
+108,Isle of Man,IM,£12.99 ,12.99,£
+109,Israel,IL,54.90 ILS ,54.9,ILS
+110,Italy,IT,13.99€ ,13.99,€
+111,Jamaica,JM,$6.99 ,6.99,$
+112,Japan,JP,"1,590 JPY",1590.0,JPY
+113,Jersey,JE,£12.99 ,12.99,£
+114,Jordan,JO,$7.99,7.99,$
+115,Kazakhstan,KZ,9.99€ ,9.99,€
+116,Kenya,KE,700 KES ,700.0,KES
+117,Kiribati,KI,$7.99 ,7.99,$
+118,Kuwait,KW,$11.99,11.99,$
+119,Kyrgyzstan,KG,9.99€ ,9.99,€
+120,Laos,LA,$7.99 ,7.99,$
+121,Latvia,LV,9.99€ ,9.99,€
+122,Lebanon,LB,$7.99,7.99,$
+123,Lesotho,LS,$7.99 ,7.99,$
+124,Liberia,LR,$7.99 ,7.99,$
+125,Libya,LY,$7.99,7.99,$
+126,Liechtenstein,LI,"22,90 CHF ",22.9,CHF
+127,Lithuania,LT,9.99€ ,9.99,€
+128,Luxembourg,LU,16.99€,16.99,€
+129,Macau,MO,$9.99 ,9.99,$
+130,Madagascar,MG,$7.99 ,7.99,$
+131,Malawi,MW,$7.99 ,7.99,$
+132,Malaysia,MY,49.90 MYR ,49.9,MYR
+133,Maldives,MV,$13.99,13.99,$
+134,Mali,ML,$7.99 ,7.99,$
+135,Malta,MT,13.99€ ,13.99,€
+136,Marshall Islands,MH,$17.99 ,17.99,$
+137,Martinique,MQ,14.99€ ,14.99,€
+138,Mauritania,MR,$7.99 ,7.99,$
+139,Mauritius,MU,$7.99 ,7.99,$
+140,Mayotte,YT,14.99€ ,14.99,€
+141,Mexico,MX,$249 MXN ,249.0,$MXN
+142,Micronesia,FM,$17.99 ,17.99,$
+143,Moldova,MD,9.99€ ,9.99,€
+144,Monaco,MC,14.99€ ,14.99,€
+145,Mongolia,MN,$7.99 ,7.99,$
+146,Montenegro,ME,7.99€ ,7.99,€
+147,Montserrat,MS,$15.49,15.49,$
+148,Morocco,MA,65 MAD ,65.0,MAD
+149,Mozambique,MZ,$7.99 ,7.99,$
+150,Myanmar (Burma),MM,$7.99 ,7.99,$
+151,Namibia,NA,$7.99 ,7.99,$
+152,Nauru,NR,$13.99,13.99,$
+153,Nepal,NP,$7.99 ,7.99,$
+154,Netherlands,NL,15.99€ ,15.99,€
+155,New Caledonia,NC,$13.99,13.99,$
+156,New Zealand,NZ,NZ$25.99 ,25.99,NZ$
+157,Nicaragua,NI,$6.99 ,6.99,$
+158,Niger,NE,$7.99 ,7.99,$
+159,Nigeria,NG,"6,500 NGN ",6500.0,NGN
+160,Niue,NU,NZ$25.99 ,25.99,NZ$
+161,Norfolk Island,NF,AU$18.99,18.99,AU$
+162,Northern Mariana Islands,MP,$17.99 ,17.99,$
+163,North Korea,KP,,,
+164,North Macedonia,MK,7.99€ ,7.99,€
+165,Norway,NO,NOK 129 ,129.0,NOK
+166,Oman,OM,$10.49,10.49,$
+167,Pakistan,PK,Rs 800,800.0,Rs
+168,Palau,PW,$17.99 ,17.99,$
+169,Palestine,PS,$7.99,7.99,$
+170,Panama,PA,$9.99 ,9.99,$
+171,Papua New Guinea,PG,$7.99 ,7.99,$
+172,Paraguay,PY,$5.99 ,5.99,$
+173,Peru,PE,PEN 40.90 ,40.9,PEN
+174,Philippines,PH,449 PHP ,449.0,PHP
+175,Pitcairn Islands,PN,$7.99 ,7.99,$
+176,Poland,PL,49 PLN ,49.0,PLN
+177,Portugal,PT,12.99€ ,12.99,€
+178,Puerto Rico,PR,$17.99 ,17.99,$
+179,Qatar,QA,$11.99,11.99,$
+180,Réunion,RE,13.49€ ,13.49,€
+181,Romania,RO,10.99€ ,10.99,€
+182,Russia,RU,,,
+183,Rwanda,RW,$7.99 ,7.99,$
+184,Samoa,WS,$7.99 ,7.99,$
+185,San Marino,SM,13.99€ ,13.99,€
+186,São Tomé & Príncipe,ST,$7.99 ,7.99,$
+187,Saudi Arabia,SA,49 SAR,49.0,SAR
+188,Senegal,SN,$7.99 ,7.99,$
+189,Serbia,RS,7.99€ ,7.99,€
+190,Seychelles,SC,$7.99 ,7.99,$
+191,Sierra Leone,SL,$7.99 ,7.99,$
+192,Singapore,SG,22.98 SGD ,22.98,SGD
+193,Sint Maarten,SX,$15.49,15.49,$
+194,Slovakia,SK,11.49€ ,11.49,€
+195,Slovenia,SI,7.99€ ,7.99,€
+196,Solomon Islands,SB,$7.99 ,7.99,$
+197,Somalia,SO,$7.99 ,7.99,$
+198,South Africa,ZA,179 ZAR ,179.0,ZAR
+199,South Georgia & South Sandwich Islands,GS,$17.99 ,17.99,$
+200,South Korea,KR,"13,500 KRW ",13500.0,KRW
+201,South Sudan,SS,$7.99 ,7.99,$
+202,Spain,ES,13.99€ ,13.99,€
+203,Sri Lanka,LK,$7.99 ,7.99,$
+204,St. Barthélemy,BL,$5.99 ,5.99,$
+205,St. Helena,SH,$7.99 ,7.99,$
+206,St. Kitts & Nevis,KN,$15.49,15.49,$
+207,St. Lucia,LC,$5.99 ,5.99,$
+208,St. Martin,MF,$5.99 ,5.99,$
+209,St. Pierre & Miquelon,PM,14.99€ ,14.99,€
+210,St. Vincent & Grenadines,VC,$5.99 ,5.99,$
+211,Sudan,SD,$7.99,7.99,$
+212,Suriname,SR,$5.99 ,5.99,$
+213,Svalbard & Jan Mayen,SJ,NOK 129 ,129.0,NOK
+214,Sweden,SE,149 kr ,149.0,kr
+215,Switzerland,CH,"22,90 CHF ",22.9,CHF
+216,Syria,SY,,,
+217,Taiwan,TW,380 TWD ,380.0,TWD
+218,Tajikistan,TJ,11.79€,11.79,€
+219,Tanzania,TZ,$7.99 ,7.99,$
+220,Thailand,TH,349 THB ,349.0,THB
+221,Timor-Leste,TL,$7.99 ,7.99,$
+222,Togo,TG,$7.99 ,7.99,$
+223,Tokelau,TK,NZ$25.99 ,25.99,NZ$
+224,Tonga,TO,$7.99 ,7.99,$
+225,Trinidad and Tobago,TT,$15.49,15.49,$
+226,Tunisia,TN,$7.99,7.99,$
+227,Türkiye,TR,289.99 TRY,289.99,TRY
+228,Turkmenistan,TM,9.99€ ,9.99,€
+229,Turks & Caicos Islands,TC,$15.49,15.49,$
+230,Tuvalu,TV,$7.99 ,7.99,$
+231,U.S. Outlying Islands,UM,$17.99 ,17.99,$
+232,U.S. Virgin Islands,VI,$17.99 ,17.99,$
+233,Uganda,UG,$7.99 ,7.99,$
+234,Ukraine,UA,7.49€ ,7.49,€
+235,United Arab Emirates,AE,49 AED,49.0,AED
+236,United Kingdom,GB,£12.99 ,12.99,£
+237,United States,US,$17.99 ,17.99,$
+238,Uruguay,UY,$16.99,16.99,$
+239,Uzbekistan,UZ,9.99€ ,9.99,€
+240,Vanuatu,VU,$7.99 ,7.99,$
+241,Vatican City,VA,13.99€ ,13.99,€
+242,Venezuela,VE,$5.99 ,5.99,$
+243,Vietnam,VN,"231,000 VND ",231000.0,VND
+244,Wallis & Futuna,WF,$7.99 ,7.99,$
+245,Western Sahara,EH,$9.99 ,9.99,$
+246,Yemen,YE,$7.99,7.99,$
+247,Zambia,ZM,$7.99 ,7.99,$
+248,Zimbabwe,ZW,$7.99 ,7.99,$
