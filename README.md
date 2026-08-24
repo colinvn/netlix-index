@@ -2,7 +2,7 @@
 
 ### About
 
-This repo explores the (un)fairness in regional variations of Netflix prices. The main findings can be explored via this [**interactive map**](https://colinvn.github.io/netlix-index/map_dynamic.html).
+This repo explores the (un)fairness in regional variations of Netflix prices. The main findings can be explored via this [**interactive map**]([https://colinvn.github.io/netlix-index/map_dynamic.html](https://colinvn.github.io/netflix-index/)).
 
 **Background**: the prices for Netflix plans vary significantly by country. At first sight, however, prices seem to be lower in low-income countries and higher wealthier nations. Hence, prices could be unequal in absolute terms but account for regional purchasing power, thus being "fair" overall?
 
